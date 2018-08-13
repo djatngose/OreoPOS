@@ -237,3 +237,8 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+
+/OreoPOS/bin/Debug/
+/OreoPOS/obj/Debug/
+/OreoPOS.Core/bin/Debug/
+/OreoPOS.Core/obj/Debug/
