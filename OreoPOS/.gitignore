@@ -21,14 +21,11 @@ x64/
 x86/
 build/
 bld/
-bin/
+bin/Debug
 Bin/
-obj/
+obj/Debug
 Obj/
-*/**/bin/Debug
-*/**/bin/Release
-*/**/obj/Debug
-*/**/obj/Release
+
 
 # Visual Studio 2015 cache/options directory
 .vs/
