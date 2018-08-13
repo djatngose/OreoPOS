@@ -10,3 +10,14 @@ D:\Study\Greenwich\3.Project\OreoPOS\OreoPOS\OreoPOS.Core\obj\Debug\OreoPOS.Core
 D:\Study\Greenwich\3.Project\OreoPOS\OreoPOS\OreoPOS.Core\obj\Debug\OreoPOS.Core.csproj.CopyComplete
 D:\Study\Greenwich\3.Project\OreoPOS\OreoPOS\OreoPOS.Core\obj\Debug\OreoPOS.Core.dll
 D:\Study\Greenwich\3.Project\OreoPOS\OreoPOS\OreoPOS.Core\obj\Debug\OreoPOS.Core.pdb
+D:\Study\Greenwich\3.Project\OreoPOS\OreoPOS.Core\bin\Debug\OreoPOS.Core.dll.config
+D:\Study\Greenwich\3.Project\OreoPOS\OreoPOS.Core\bin\Debug\OreoPOS.Core.dll
+D:\Study\Greenwich\3.Project\OreoPOS\OreoPOS.Core\bin\Debug\OreoPOS.Core.pdb
+D:\Study\Greenwich\3.Project\OreoPOS\OreoPOS.Core\bin\Debug\EntityFramework.dll
+D:\Study\Greenwich\3.Project\OreoPOS\OreoPOS.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\Study\Greenwich\3.Project\OreoPOS\OreoPOS.Core\bin\Debug\EntityFramework.xml
+D:\Study\Greenwich\3.Project\OreoPOS\OreoPOS.Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\Study\Greenwich\3.Project\OreoPOS\OreoPOS.Core\obj\Debug\OreoPOS.Core.csproj.CoreCompileInputs.cache
+D:\Study\Greenwich\3.Project\OreoPOS\OreoPOS.Core\obj\Debug\OreoPOS.Core.csproj.CopyComplete
+D:\Study\Greenwich\3.Project\OreoPOS\OreoPOS.Core\obj\Debug\OreoPOS.Core.dll
+D:\Study\Greenwich\3.Project\OreoPOS\OreoPOS.Core\obj\Debug\OreoPOS.Core.pdb
